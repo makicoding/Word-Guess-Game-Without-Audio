@@ -22,7 +22,7 @@ body {
 
 /* Game Outer Container */
 .gameOuterContainer {
-    width: 470px;
+    width: 480px;
     height: 325px;
 
     padding: 10px;
@@ -40,7 +40,7 @@ body {
     position: fixed;
     top: 236px;
     left: 50%;
-    transform: translate(-266px, 0px);
+    transform: translate(-271px, 0px);
 
 }
 
