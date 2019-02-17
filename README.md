@@ -12,4 +12,4 @@ When a user presses the same key twice, this does not affect the win score, and 
 
 Since this is a hangman game, a question will appear for the user to guess the word.
 
-Within the 5 games are a 2 that have multiple words (one that is 2 words, and one that is 3 words) that are separated by a space between them. 
+Within the 5 games are a 2 that have multiple words (one that is 2 words, and one that is 3 words) that are separated by a space between them.
