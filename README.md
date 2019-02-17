@@ -1,6 +1,6 @@
 # Word-Guess-Game-Without-Audio
 
-### Welcome to Retro Diner's 80's Music Hangman game night!
+### Welcome to Retro Diner's '80s Music Hangman game night!
 
 There are a total of 5 different games that will be selected at random.
 
