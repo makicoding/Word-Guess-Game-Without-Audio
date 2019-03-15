@@ -1,4 +1,4 @@
-# Word-Guess-Game-Without-Audio
+# Word Guess Game Without Audio
 
 [Click here to view deployed game](https://makicoding.github.io/Word-Guess-Game-Without-Audio/index.html)
 <br>
