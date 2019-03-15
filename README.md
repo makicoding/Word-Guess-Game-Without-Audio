@@ -1,5 +1,8 @@
 # Word-Guess-Game-Without-Audio
 
+[Click here to view deployed game](https://makicoding.github.io/Word-Guess-Game-Without-Audio/index.html)
+<br>
+
 ### Welcome to Retro Diner's '80s Music Hangman game night!
 
 There are a total of 5 different games that will be selected at random.
